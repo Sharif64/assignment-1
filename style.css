@@ -13,7 +13,7 @@ body {
 #header_image {
     background-image: url('Images/pngwing 10.png');
     background-repeat: no-repeat;
-    background-position: 85%;
+    background-position: 88%;
 }
 
 /*header section heading style*/
@@ -242,19 +242,25 @@ body {
 /*footer stylin*/
 
 footer {
-    height: 449px;
-    background-color: #111010;
+    /* height: 449px;
+   
     text-align:center;
     display:flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: center; */
+    background-color: #111010;
+    color:white;
+    text-align: center;
+    padding: 20px ;
+
 }
 
 .foot-para {
     color: rgba(255, 255, 255, 0.90);
-    font-size: 18px;
+    
     font-weight: 400;
-    margin: auto 680px;
+    /* margin: auto 680px; */
+    font-size: 18px;
 }
 
 .foot-small {
